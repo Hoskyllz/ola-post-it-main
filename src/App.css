@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Harmattan:wght@700&family=Signika+Negative:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,700&display=swap');
+
+.banner{
+    background-image: url('../src/assets/banner.png');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+   
+}
+.curious {
+    height: 213px;
+    padding-top: 8%;
+    text-align: start;
+}
+.curious p {
+    padding-top: 20px;
+    width: 400px;
+}
+
+.lnt{
+    margin-top: 80px;
+}
+.two p{
+    padding-top: 20px;
+}
+.two button{
+    border: none;
+    width: 89px;
+    height: 24px;
+    border-radius: 5px;
+}
+.colo{
+    color: #0086B0;
+}
+.tp{
+    text-align: center;
+    background-image: url('../src/assets/grey.png');
+    height: 250px;
+    padding-top: 80px;
+    margin-top: 50px;
+    font-family: var(--Opensans);
+}
+.back{
+    background-color:#292929 ;
+    margin-top: 50px;
+    height: 338px;
+    padding-top: 80px;
+
+}
+.hh{
+   border-color: white;
+   border-width: 2px;
+   margin-left: 70px;
+   width: 90%;
+    
+}
+.first{
+    width: 427px;
+}
+.btn2{
+    color: white;
+    background-color: #0086B0;
+    border: none;
+    width: 132px;
+    height: 33px;
+    border-radius: 8px;
+}
+.btn22 {
+    color: white;
+    background-color: #0086B0;
+    border: none;
+    width: 132px;
+    height: 33px;
+    /* position: relative;
+    right: 140px; */
+}
+.btn23 {
+    color: white;
+    background-color: #0086B0;
+    border: none;
+    width: 132px;
+    height: 39px;
+    border-radius: 8px;
+    position: relative;
+    right: 130px;
+    
+}
+.ip{
+    border: none;
+    width: 496px;
+    height: 39px;
+    margin-left: 80px;
+    border-radius: 0px,8px,8px,0px;
+
+}
+
+.ip2{
+    width: 297px;
+    height: 39px;
+}
+.backlogin{
+    background-image: url('../src/assets/backgroundsignin.png');
+    background-size: cover;
+    background-position: center;
+    height: 690px;
+    
+    
+}
+
+.fm{
+    height: 100vh;
+    width: 80vh;
+    padding-top: 150px;
+    font-family: var(--Opensans);
+}
+.loginip{
+    border: none;
+    border-bottom: 1px solid #727272;
+    width: 415px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btnlog{
+    color: white;
+        background-color: #0086B0;
+        border: none;
+        border-radius: 8px;
+        width: 415px;
+        height: 47px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.wel{
+    font-family: var(--Harmattan);
+    margin-top: 100px;
+}
+.wel h1{
+    font-family: var(--Harmattan);
+    font-weight: 700;
+}
+.wel p{
+    font-family: var(--Opensans);
+}
+.ms1{
+color: white;
+    background-color: #0086B0;
+    border: none;
+    border-radius: 8px;
+    width: 230px;
+    height: 53px;
+}
+.ms2{
+color: #0086B0;
+    background-color: white;
+   border: 1px solid #0086B0;
+    border-radius: 8px;
+    width: 230px;
+    height: 53px;
+}
+.dash{
+    width: 647.1855317685356px; 
+    height: 333.32796463164027px;
+}
+.create{
+    width: 1020px;
+    height: 56px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.create:hover{
+    border-color: #0086B0;
+}
+.create2{
+    width: 200px;
+    height: 30px;
+    font-family: var(--Harmattan);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.create2:hover{
+    border-color: #0086B0;
+}
+.create3{
+    font-family: var(--Harmattan);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.create4{
+    width: 1020px;
+    height: 297px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.create4:hover{
+    border-color: #0086B0;
+}
+.pubs{
+    color: white;
+        background-color: #0086B0;
+        border: none;
+        border-radius: 5px;
+        width: 438px;
+        height: 57px;
+        margin-bottom: 10px;
+}
+.heroback{
+    background-color: #F5F6F8;
+    height: 412px;
+}
+.heroback h1{
+    font-family: var(--Harmattan);
+}
+.heroback p{
+    font-family: var(--Opensans);
+}
+.boxer{
+    color: #0086B0;
+}
+.box2{
+    color: #7B7B7B;
+    font-family: var(--Opensans);
+}
+.box1{
+    box-shadow: #0086B0;
+    color: white;
+    background-color: #292929;
+    width: 10%;
+
+}
+.simg{
+    width: 1020px;
+    height: 432px;
+}
+.sans{
+    font-family: var(--Opensans);
+}
+.sans2{
+    font-family:var(--Opensans);
+    color:#7B7B7B;
+}
+.harm{
+    font-family: var(--Harmattan);
+}
+
+.side{
+        
+            background-color: #292929;
+            border: none;
+            border-radius: 8px;
+            width: 157px;
+            height: 44px;
+}
+.side1{
+    width: 616px;
+    height: 282px;
+}
+.side2{
+        color: white;
+            background-color: #0086B0;
+            border: none;
+            border-radius: 8px;
+            width: 154px;
+            height: 41px;
+}
+.side3{
+color: #0086B0;
+    background-color: white;
+    border: 1px solid #0086B0;
+    border-radius: 8px;
+    width: 154px;
+    height: 41px;
+}
+
+
+
+@media(max-width: 764px){
+    .curious p{
+        width: 100%;
+    }
+    .first{
+        display: none;
+    }
+    .third{
+        display: none;
+    }
+    .hh{
+        margin-left: 80px;
+        width: 50%;
+    }
+    .btn23{
+        position: absolute;
+    }
+    .ip{
+       display: none;
+
+    }
+    .fm{
+        width: 40vh;
+    }
+    .loginip{
+        width: 50%;
+    }
+    .btnlog{
+        width: 50%;
+    }
+    .dash{
+        display: none;
+    }
+    .wu{
+        width: 100%;
+    }
+    .ms1{
+        width: 120%;
+    }
+    .ms2{
+        width: 120%;
+    }
+    .create{
+        width: 80%;
+    }
+    .create4{
+        width: 100%;
+    }
+    .pubs{
+        width: 80%;
+    }
+        .allstory {
+            flex-wrap: wrap;
+        }
+                .simg {
+                    width: 100%;
+                    height: 332px;
+                }
+
+                .side2{
+                    width: 100%;
+                    margin-right: 40px;
+
+                }
+                .side3{
+                    width: 100%;
+                }
+                .side1{
+                    width: 60%;
+                }
+
+}
